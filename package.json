@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d shop"
+    "deploy": "gh-pages -d shop1"
   },
   "keywords": [],
   "author": "",
