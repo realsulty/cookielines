@@ -1,0 +1,17 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shop.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d shop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://realsulty.github.io/cookielines"
+}
